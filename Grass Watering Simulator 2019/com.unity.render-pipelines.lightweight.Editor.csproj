@@ -387,6 +387,21 @@
     <Compile Include="Packages\com.unity.render-pipelines.lightweight\LWRP\Editor\UpgradeCommon.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
+    <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
+    <None Include="Assets\Oculus\VR\Resources\Cubemap Blit.shader" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRCameraFrame.shader" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRCameraFrameLit.shader" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRChromaKey.cginc" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRClipPlane.shader" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRUnlit.shader" />
+    <None Include="Assets\Oculus\VR\Resources\OVRMRUnlitTransparent.shader" />
+    <None Include="Assets\Oculus\VR\Resources\Texture2D Blit.shader" />
+    <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
+    <None Include="Assets\Oculus\VR\Resources\Underlay Transparent Occluder.shader" />
+    <None Include="Assets\Oculus\VR\Resources\Unlit Transparent Color.shader" />
+    <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
+    <None Include="Assets\Oculus\VR\Shaders\Unlit Crosshair.shader" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Light.uss" />
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Templates\Alert.uxml" />
