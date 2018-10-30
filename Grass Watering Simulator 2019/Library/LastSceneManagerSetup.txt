@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/MyGame/Scenes/Level1.unity
+=======
+- path: Assets/VRSampleScenes/Scenes/MainMenu.unity
+>>>>>>> d01f4182ea5270ceedec9115a9acd80097c7d09f
   isLoaded: 1
   isActive: 1

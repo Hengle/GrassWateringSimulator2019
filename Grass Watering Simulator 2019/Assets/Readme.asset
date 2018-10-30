@@ -11,44 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
   m_Name: Readme
   m_EditorClassIdentifier: 
-  icon: {fileID: 2800000, guid: 360a87c8336f6ad4cb6258177b4d33cd, type: 3}
-  title: Lightweight RP for VR (Preview)
+  icon: {fileID: 2800000, guid: 18a6ef6bd47d64aa7844691b8adfdc3b, type: 3}
+  title: VR Samples
   sections:
-  - heading: Lightweight Render Pipeline for VR
-    text: 'The Lightweight Scriptable Render Pipeline is currently still in development.
-      At this stage we are seeking feedback on the feature, but it should be considered
-      incomplete and subject to changes (API, UX, scope). As such, it is not covered
-      by regular Unity support. Please direct any questions to the:'
-    linkText: Preview Forum
-    url: 'https://forum.unity.com/categories/betas-experimental-features.86/'
-  - heading: 
-    text: 'This template is a good starting point for developers focused on performance
-      and VR projects that use a primarily baked lighting solution. This template
-      utilizes the Lightweight Scriptable Render Pipeline, a single-pass forward renderer.
-      Note that this project is designed to be used with a Virtual Reality device.
-      Make sure you have the correct SDKs for the device you are using before using
-      this template. '
-    linkText: 
-    url: 
-  - heading: 
-    text: 'Visit the Unity XR manual pages for more information about VR: '
-    linkText: VR Overview
-    url: 'https://docs.unity3d.com/Manual/VROverview.html'
-  - heading: 
-    text: 'To read more about the Lightweight Render Pipeline check out the Scriptable
-      Render Pipeline wiki here:'
-    linkText: Scriptable Render Pipeline
-    url: https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki
-  - heading: 
-    text: 'This project also includes the new shader graph tool. This tool allows
-      users to create shaders using a visual node editor instead of writing code.
-      Read more about the shader graph here:'
-    linkText: Shader Graph
-    url: https://github.com/Unity-Technologies/ShaderGraph/wiki
-  - heading: 
-    text: 'This project also includes the new Post-Processing stack, several presets
-      to jump start development, and example content. To learn more about Post-Processing
-      please refer to the wiki page located here:'
-    linkText: Post Processing
-    url: https://github.com/Unity-Technologies/PostProcessing/wiki
+  - heading: Follow this Tutorial
+    text: This is a tutorial project that has accompanying video instructions.
+    linkText: Open the instructions in your browser
+    url: https://unity3d.com/learn/tutorials/topics/virtual-reality/vr-overview
   loadedLayout: 1
